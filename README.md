@@ -32,15 +32,15 @@ $ python3 emailGuesser.py
 ```
 
 ## Usage
-The script will search for potential e-mail addresses of a target according to inputs given by the user. It will try "guessing" potential e-mail addresses of the target by using the most common formats used in e-mail addresses (e.g. jsmith@domain or j.smith@domain).
+The script will search for potential e-mail addresses of a target according to inputs given by the user. It will try "guessing" potential e-mail addresses of the target by using the most common formats used in e-mail addresses (e.g. B.tatiana@domain or t.brukis@domain).
 
 The script asks for the following user inputs (mandatory inputs are marked with asterisk):
 ```
-Name*: Insert the first name of your target (e.g. john)
+Name*: Insert the first name of your target (e.g. tatiana)
 
-Surname*: Insert the last name of your target (e.g. smith)
+Surname*: Insert the last name of your target (e.g. brukis)
 
-Birth year: Insert birth year in its full form (e.g. 1984), otherwise (e.g. if you input 84) the script will assume you don't know the exact birth year. 
+Birth year: Insert birth year in its full form (e.g. 1986), otherwise (e.g. 5. 01. 86) the script will assume you don't know the exact birth year. 
 You can also input "no" if you don't know the year of birth.
 
 Username: Insert any known username of the target (only one). You can also input "no" if you don't know any username.
